@@ -1,2 +1,0 @@
-# jasonsbot
-learning smooch 
